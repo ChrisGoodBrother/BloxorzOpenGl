@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733442203 source:c:\users\admin\desktop\poland-erasmus-subjects\computergraphics\finalproject\bloxorzgame\game.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengl.h>
+	<GL/glu.h>
+	<iostream>
+
